@@ -2,7 +2,7 @@
 
 ## WhereToChange Eval
 
-- The WhereToChange eval set can be downloaded from [here](#).
+- The WhereToChange eval set can be downloaded from [here](https://utexas.box.com/s/tx52j9gcgq7s89mq8ldwkwzcn5jukbwe).
     - Please unzip and move it to `spoc/data`
     - It contains two subsets -- WTC-HowTo and WTC-VOST
     - Video clips as well as images and masks annotated at 1fps are provided
